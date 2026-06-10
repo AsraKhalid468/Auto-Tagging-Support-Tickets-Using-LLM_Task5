@@ -1,0 +1,26 @@
+ticket_id,text,true_label,top_1,top_2,top_3,confidence_1,confidence_2,confidence_3
+1,I was charged twice for my subscription this month. Please refund the extra amount.,billing,billing,account_management,product_feedback,0.5792,0.2229,0.1104
+2,My invoice shows incorrect tax calculation. Can you correct and resend it?,billing,billing,account_management,technical_issue,0.7093,0.124,0.1147
+3,I cannot update my payment method. The page keeps throwing an error.,billing,technical_issue,account_management,billing,0.3368,0.2905,0.2476
+4,Why was my credit card declined even though it has sufficient funds?,billing,billing,account_management,technical_issue,0.4487,0.2899,0.1659
+5,I need a receipt for my last three payments for expense reimbursement.,billing,billing,account_management,product_feedback,0.6487,0.2362,0.052
+6,The app crashes every time I try to upload a file larger than 10 MB.,technical_issue,technical_issue,product_feedback,account_management,0.6273,0.1533,0.108
+7,Login page is not loading. I keep getting a 502 Bad Gateway error.,technical_issue,technical_issue,account_management,product_feedback,0.6975,0.181,0.0861
+8,"My dashboard shows data from last week, not refreshing with current stats.",technical_issue,technical_issue,product_feedback,account_management,0.3138,0.2756,0.1939
+9,API integration keeps timing out after exactly 30 seconds.,technical_issue,technical_issue,product_feedback,shipping_delivery,0.5326,0.2003,0.121
+10,Push notifications are not working on my Android device since the last update.,technical_issue,technical_issue,product_feedback,shipping_delivery,0.5798,0.3275,0.053
+11,I forgot my password and the reset email is not arriving in my inbox.,account_management,account_management,technical_issue,product_feedback,0.5469,0.3403,0.0621
+12,How do I add another user to my team account with admin privileges?,account_management,account_management,technical_issue,product_feedback,0.7936,0.1462,0.0313
+13,I need to change the email address associated with my account.,account_management,account_management,technical_issue,product_feedback,0.6512,0.2515,0.0561
+14,Please delete my account and remove all my personal data per GDPR.,account_management,account_management,product_feedback,technical_issue,0.8201,0.0651,0.0633
+15,Two-factor authentication is not sending the OTP to my phone number.,account_management,technical_issue,account_management,product_feedback,0.5495,0.2903,0.0817
+16,It would be great if you could add a dark mode to the mobile app.,product_feedback,technical_issue,product_feedback,account_management,0.4825,0.2705,0.1038
+17,The new UI redesign is confusing. The old layout was much more intuitive.,product_feedback,technical_issue,product_feedback,account_management,0.331,0.3201,0.1558
+18,Can you add bulk export functionality to the reporting module?,product_feedback,technical_issue,product_feedback,account_management,0.578,0.2682,0.0635
+19,The search feature is too slow when filtering more than 1000 records.,product_feedback,technical_issue,product_feedback,account_management,0.7738,0.0929,0.082
+20,I love the new calendar integration feature! It saves me a lot of time.,product_feedback,product_feedback,account_management,technical_issue,0.417,0.1836,0.1787
+21,My order was supposed to arrive 3 days ago but tracking shows no update.,shipping_delivery,shipping_delivery,product_feedback,billing,0.4033,0.193,0.1771
+22,I received the wrong item in my package. How do I return it?,shipping_delivery,shipping_delivery,product_feedback,technical_issue,0.4123,0.2943,0.1302
+23,Can I change my delivery address? The order hasn't been dispatched yet.,shipping_delivery,shipping_delivery,product_feedback,technical_issue,0.7399,0.0887,0.088
+24,The courier says delivered but I never received the package.,shipping_delivery,shipping_delivery,product_feedback,technical_issue,0.5725,0.1807,0.1288
+25,Do you offer express shipping to Pakistan? I need it within 2 days.,shipping_delivery,shipping_delivery,product_feedback,billing,0.744,0.0972,0.063

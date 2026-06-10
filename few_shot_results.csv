@@ -1,0 +1,26 @@
+ticket_id,text,true_label,top_1,top_2,top_3
+1,I was charged twice for my subscription this month. Please refund the extra amount.,billing,billing,account_management,technical_issue
+2,My invoice shows incorrect tax calculation. Can you correct and resend it?,billing,billing,technical_issue,account_management
+3,I cannot update my payment method. The page keeps throwing an error.,billing,billing,technical_issue,account_management
+4,Why was my credit card declined even though it has sufficient funds?,billing,billing,technical_issue,account_management
+5,I need a receipt for my last three payments for expense reimbursement.,billing,shipping_delivery,billing,technical_issue
+6,The app crashes every time I try to upload a file larger than 10 MB.,technical_issue,technical_issue,billing,account_management
+7,Login page is not loading. I keep getting a 502 Bad Gateway error.,technical_issue,technical_issue,billing,account_management
+8,"My dashboard shows data from last week, not refreshing with current stats.",technical_issue,account_management,billing,technical_issue
+9,API integration keeps timing out after exactly 30 seconds.,technical_issue,technical_issue,billing,account_management
+10,Push notifications are not working on my Android device since the last update.,technical_issue,technical_issue,account_management,billing
+11,I forgot my password and the reset email is not arriving in my inbox.,account_management,account_management,billing,technical_issue
+12,How do I add another user to my team account with admin privileges?,account_management,account_management,technical_issue,billing
+13,I need to change the email address associated with my account.,account_management,account_management,billing,technical_issue
+14,Please delete my account and remove all my personal data per GDPR.,account_management,account_management,billing,technical_issue
+15,Two-factor authentication is not sending the OTP to my phone number.,account_management,technical_issue,billing,account_management
+16,It would be great if you could add a dark mode to the mobile app.,product_feedback,technical_issue,account_management,billing
+17,The new UI redesign is confusing. The old layout was much more intuitive.,product_feedback,technical_issue,billing,account_management
+18,Can you add bulk export functionality to the reporting module?,product_feedback,technical_issue,account_management,billing
+19,The search feature is too slow when filtering more than 1000 records.,product_feedback,technical_issue,billing,account_management
+20,I love the new calendar integration feature! It saves me a lot of time.,product_feedback,billing,technical_issue,account_management
+21,My order was supposed to arrive 3 days ago but tracking shows no update.,shipping_delivery,shipping_delivery,billing,technical_issue
+22,I received the wrong item in my package. How do I return it?,shipping_delivery,shipping_delivery,billing,technical_issue
+23,Can I change my delivery address? The order hasn't been dispatched yet.,shipping_delivery,shipping_delivery,billing,technical_issue
+24,The courier says delivered but I never received the package.,shipping_delivery,shipping_delivery,billing,technical_issue
+25,Do you offer express shipping to Pakistan? I need it within 2 days.,shipping_delivery,shipping_delivery,billing,technical_issue
